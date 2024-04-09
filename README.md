@@ -25,8 +25,4 @@ Code Structure
 - DatabaseOperations.java: Interface defining database-related operations.
 - Blockchain.java, Block.java: Classes for implementing a basic blockchain for transaction history.
 
-# Contributions
-Contributions are welcome! Feel free to submit issues, feature requests, or pull requests.
 
-# License
-This project is licensed under the MIT License.
